@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         "brown-shade": "#B68C5A",
-        "font-color": "var(--Dark-03, #707070)",
+        "light-brown-shade": "var(--Dark-03, #707070)",
       },
       fontFamily: {
         garamond: ["EB Garamond"],
